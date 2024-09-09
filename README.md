@@ -1,1 +1,3 @@
-#### HR Data Analysis
+# **HR Data Analysis**
+
+**Goal:** The goal of the project is to analyze the data using SQL queries and build a data analysis dashboard for human resources managers and business leaders to enable them to easily analyze employee information so that they can better understand how employees serve their values, as well as where there are going issues around retention career development and recruitment. Key metrics like attrition rates, active employee counts by gender, age, and job satisfaction are visualized using the Power BI dashboards. With this in-depth analysis, HR professionals can understand their employees and better work towards reducing attrition rates and making data-driven decisions to manage their workforce optimally while enabling an inclusive working environment at scale.
